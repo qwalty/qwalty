@@ -36,23 +36,11 @@
 
 ###
 
-<img align="left" height="100" src="https://media1.tenor.com/m/SFsmQdwxd8YAAAAC/boykisser-dance.gif"  />
-
-###
-
-<img align="left" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN6MzJ1cmk3cWp5MHJ2ZDRuMGtkYXRldmY1aTd1aTdiZDltb3kzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KztT2c4u8mYYUiMKdJ/giphy.gif"  />
-
-###
-
 <img align="left" height="100" src="https://media1.tenor.com/m/Zv5THhrIjsgAAAAC/boy-kisser-boykisser.gif"  />
 
 ###
 
 <img align="left" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_NvM1ewLH-WyR7oJD7_Zq8H_MeTYAoTzZCg&s"  />
-
-###
-
-<img align="left" height="94" src="https://media1.tenor.com/m/aQaGNKt9zZMAAAAd/boy-kisser.gif"  />
 
 ###
 
