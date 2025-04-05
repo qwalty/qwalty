@@ -48,7 +48,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
