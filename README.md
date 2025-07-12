@@ -28,7 +28,7 @@
 
 ###
 
-<img align="left" height="100" src="https://fursonafy.com/wp-content/uploads/2023/01/EicmVZOXkAAbz2O.jpg"  />
+
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<img align="left" height="100" src="https://media1.tenor.com/m/Zv5THhrIjsgAAAAC/boy-kisser-boykisser.gif"  />
+
 
 ###
 
