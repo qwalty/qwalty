@@ -11,8 +11,8 @@
 
 
 <div>
-  <div>
-    <img align="center" height="200" src="https://media1.tenor.com/m/gGjVsMS7OykAAAAC/boy-kisser-dance.gif"  />
+  <div align="center">
+    <img height="200" src="https://media1.tenor.com/m/gGjVsMS7OykAAAAC/boy-kisser-dance.gif"  />
   </div>
   <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
